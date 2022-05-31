@@ -1,5 +1,6 @@
 operator = ['+', '-', '*', '/']
 
+
 def calculator(op, a, b):
     if op == '+':
         return a + b
@@ -11,5 +12,6 @@ def calculator(op, a, b):
         return a / b
     else:
         return 'blues screen of the death'
+
 
 print(calculator(operator[0], 10, 20))
