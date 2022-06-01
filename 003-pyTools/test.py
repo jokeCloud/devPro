@@ -14,4 +14,4 @@ def calculator(op, a, b):
         return 'blues screen of the death'
 
 
-print(calculator(operator[0], 10, 20))
+print(calculator(operator[0], 100, 200))
