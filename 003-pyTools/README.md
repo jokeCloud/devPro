@@ -18,11 +18,11 @@ flake8
 ```
 
 ### Tópicos abordados:
-1. Git               - versionamento.
-2. Virtualenv        - virtualização ambiente.
-3. Pip e Flake8      - gerenciador de dependências - pacotes.
-4. Travis CI         - integração contínua.
-
+1. Git                          - versionamento.
+2. Virtualenv                   - virtualização ambiente.
+3. Pip e Flake8                 - gerenciador de dependências - pacotes.
+4. Travis CI e Github actions   - integração contínua.
+5. pypi
 
 
 
